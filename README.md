@@ -40,10 +40,10 @@
 
 </div>
 
-<footer align = center>
-
+<footer>
+<div align=center>
 <a href="mailto:bnj021212@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:bnj021212@gmail.com"/></a>
-
+</div>
 </footer>
 
 
