@@ -2,7 +2,7 @@
 
 <nave allign=center>
 <h2>:runner: Introduction</h2>
-   안녕하세요
+<h3>안녕하세요</h3>
 </nave>
 <nave>
 <h2> :floppy_disk: Skills</h2>
