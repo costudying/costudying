@@ -12,6 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)
 
-![footer](https://capsule-render.vercel.app/api?type=wavig&color=A100FF&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
