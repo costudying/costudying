@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=30&desc=I'M%20SeungSoo&descAlign=70&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=30&fontColor=white&desc=I'M%20SeungSoo&descAlign=70&descAlignY=50)
 
 
 
