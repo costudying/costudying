@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=17&fontColor=ffffff&fontSize=90&desc=I'M%20SeungSoo&descAlign=79&descAlignY=43&descSize=30&rotate=13)
 
-<div allign=center>
-<nave>
+<nave allign=center>
 <h2>:runner: Introduction</h2>
    안녕하세요
 </nave>
 <nave>
 <h2> :floppy_disk: Skills</h2>
-   <li>
+   <
     <img src="https://img.shields.io/badge/자바스크립트-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
    <img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=react&logoColor=white"/>
    <img src="https://img.shields.io/badge/깃허브-181717?style=flat&logo=github&logoColor=white"/>
@@ -15,7 +14,6 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </li>
 </nave>
-</div>
 
 <footer>
    
