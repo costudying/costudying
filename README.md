@@ -7,7 +7,7 @@
 </nave>
 <nave>
 <h2> :floppy_disk: Skills</h2>
-    <img src="https://img.shields.io/badge/JAVA-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/자바스크립트-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 </nave>
 </div>
 
