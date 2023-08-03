@@ -2,10 +2,10 @@
 
 <div>
 <h2>:runner: Introduction</h2>
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <h3>안녕하세요</h3>
 </div>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <div>
 <span>
 <h2> :floppy_disk: Skills</h2>
@@ -27,8 +27,8 @@
 
 <div>
 <h2> :key: Problem Slove</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)    
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)    
 
 
 <footer>
