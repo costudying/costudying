@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=17&fontColor=ffffff&fontSize=90&desc=I'M%20SeungSoo&descAlign=79&descAlignY=43&descSize=30&rotate=13)
 
-<div allign=center>
-
-
-<h2> :runner: Introduction</h2>
-
-
-
-   
-</div>
+<div allign=center><h2> :runner: Introduction</h2></div>
 
    
    
