@@ -3,7 +3,7 @@
 <div allign=center>
 
 :runner:
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 
 
 
