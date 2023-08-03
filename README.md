@@ -1,12 +1,4 @@
-poetry install          
-poetry shell              
-python manage.py runserver 
-
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=17&fontColor=ffffff&fontSize=90&desc=I'M%20SeungSoo&descAlign=79&descAlignY=43&descSize=30&rotate=13)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=costudy)](https://github.com/costudying)
 
 <h2>:runner: Introduction</h2>
 <h3>안녕하세요</h3>
@@ -32,13 +24,16 @@ python manage.py runserver
 <div>
 <h2> :key: Problem Slove</h2>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)    
-
 
 <footer>
     <a href="matilto:bnj021212@gmail.com" >  
         <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/> </a>
 </footer>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)    
+
+
 
    
 
