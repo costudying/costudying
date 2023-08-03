@@ -28,6 +28,7 @@
 <a href="https://www.notion.so/yunjinius/73e2dace812d4b4d856964d9c77b1bd1" >  
         <img src="https://img.shields.io/badge/나의 정보-000000?style=flat&logo=notion&logoColor=white"/> </a>
 
+<a href="mailto:bnj021212@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:bnj021212@gmail.com"/></a>
 
 </div>
 
@@ -37,14 +38,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costudying&show_icons=true&theme=dark)   
 
-
 </div>
 
-<footer>
-<div align=center>
-<a href="mailto:bnj021212@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:bnj021212@gmail.com"/></a>
-</div>
-</footer>
 
 
 
