@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello&fontAlign=80&fontAlignY=17&fontColor=ffffff&fontSize=90&desc=I'M%20SeungSoo&descAlign=79&descAlignY=43&descSize=30&rotate=13)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/costudy)
 
 <h2>:runner: Introduction</h2>
 <h3>안녕하세요</h3>
