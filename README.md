@@ -1,2 +1,1 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Mail&logoColor=#FF0000"/>
-
+ <img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat&logo=gmail&logoColor=white"/>
