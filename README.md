@@ -15,7 +15,7 @@
 </span>
 
 <footer>
-    <a href="matilto:hey.bnj021212@gmail.com" >  
+    <a href="matilto:bnj021212@gmail.com" >  
         <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/> </a>
    
 </footer>
