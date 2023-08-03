@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=512BD4&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=capsule%20render&fontSize=90)
    
    
    <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/>
