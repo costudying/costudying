@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A100FF&height=200&section=header&text=Hello%20render&desc=Hello%20capsule%20render)
 
-
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
    
    
    <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/>
