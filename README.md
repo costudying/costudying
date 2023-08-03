@@ -15,13 +15,15 @@
 </span>
 
 <footer>
+    <a href="bnj021212@gmail.com" >  
+        <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/> </a>
    
 </footer>
 
    
    
-   <img src="https://img.shields.io/badge/메일-EA4335?style=flat&logo=gmail&logoColor=white"/>
-    <a href="url" > <h3>:muscle: Problem Solving </h3> </a>
+
+    
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
