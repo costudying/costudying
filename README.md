@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/피그마-F24E1E?style=flat&logo=figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
-<div align = center>
+<!-- <div align = center>
     
 ### :books: Study
 
@@ -19,13 +19,13 @@
    <img src="https://img.shields.io/badge/깃허브-181717?style=flat&logo=github&logoColor=white"/>
    <img src="https://img.shields.io/badge/피그마-F24E1E?style=flat&logo=figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</div>
+</div> -->
 
 <div align = center>
     
 ### :exclamation: Information
 
-<a href="https://www.notion.so/yunjinius/73e2dace812d4b4d856964d9c77b1bd1" >  
+<a href="https://www.notion.so/bf835273a54b499bb619e5b94e810d4e?pvs=4" >  
         <img src="https://img.shields.io/badge/나의 정보-000000?style=flat&logo=notion&logoColor=white"/> </a>
 
 <a href="mailto:bnj021212@gmail.com"><img src="https://img.shields.io/badge/메일-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:bnj021212@gmail.com"/></a>
