@@ -26,6 +26,7 @@
    <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white"/>
    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </div>
 
 <div align = center>
